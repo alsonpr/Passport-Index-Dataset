@@ -1,6 +1,6 @@
 # Passport Index Dataset
 
-The dataset contains information from the Passport Index website, which ranks the world's passports based on their power and access to different countries.
+The dataset in this repository is a collection of information from the Passport Index website, which is a platform that ranks passports from around the world based on their power and the access they provide to their holders to enter different countries. This dataset here is updated monthly to ensure that the information provided is current and accurate.
 
 ![Passport](world-flags.png)
 
