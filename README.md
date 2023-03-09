@@ -22,7 +22,7 @@ The data is saved in CSV file that can be used for further analysis or visualiza
 
 
 ## Output
-The data is saved in an excel file named passport-power-{today_date}.xlsx in the same directory as the scraper file. Data history can be found in folder named history inside project repo. This excel file contains two sheets of information related to visa policies.
+The data is saved in an excel file named passport-power-{date}.xlsx in the same directory as the project repo. Similarly, previous data history can be found in folder named history inside project repo. This excel file contains two sheets of information related to visa policies.
 
 - Sheet 1 provides comprehensive information on visa requirements for different origin-destination pairs
 - Sheet 2 includes detailed visa information for each country, including the number of countries offering visa-free access, visa-on-arrival, electronic travel authorization (ETA), and visa-required status.
